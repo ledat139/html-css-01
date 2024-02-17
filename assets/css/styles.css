@@ -577,8 +577,8 @@ a {
 .footer .row{
     display: flex;
 }
-.footer .row:first-child{
-    gap: 130px;
+.footer .row{
+    gap: 160px;
 }
 .footer .row:last-child{
     margin-top: 70px;
