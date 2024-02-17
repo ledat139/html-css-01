@@ -51,9 +51,10 @@ a {
 
 .hero-wrap {
     position: relative;
-    
     height: calc(100vh - 82px);
     background-color: #E6F0FF;
+    display: flex;
+    align-items: center;
 }
 /* Navbar */
 .navbar {
