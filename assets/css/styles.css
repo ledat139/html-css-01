@@ -493,10 +493,10 @@ a {
 
 .stats .qty-item {
     margin-top: 110px;
-    margin-left: 220px;
+    margin-left: 180px;
 }
 .stats .qty-item:first-child{
-    margin-left: 32px;
+    margin-left: 0px;
 }
 .stats .qty-item .value{
     display: inline-block;
